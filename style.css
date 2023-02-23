@@ -31,6 +31,7 @@ a{
     background: black;
     cursor:pointer;
     color:white;
+    text-align:center;
 }
 
 a:hover{
